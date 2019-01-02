@@ -1,6 +1,6 @@
 # Kühl-Gefrier
 
-Bosch Serie 6 KIN86AF30  
+[Bosch Serie 6 KIN86AF30](https://geizhals.at/bosch-serie-6-kin86af30-a855114.html)  
 Siemens iQ500 KI86NAD30  
 
 # Kochplatte
