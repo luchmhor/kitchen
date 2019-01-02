@@ -17,3 +17,8 @@ Siemens iQ700 HM676G0S1 - 60cm
 
 Bosch Serie 4 SMV46GX01E  
 Siemens iQ500 SN55L230EU  
+
+# Dunstabzug
+
+Bosch Serie 4 DHU665EL
+Siemens iQ100 LU63LCC50
