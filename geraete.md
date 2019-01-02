@@ -1,7 +1,7 @@
 # Kühl-Gefrier
 
-[Bosch Serie 6 KIN86AF30](https://geizhals.at/bosch-serie-6-kin86af30-a855114.html)  
-Siemens iQ500 KI86NAD30  
+[Bosch Serie 6 KIN86AF30](https://geizhals.at/bosch-serie-6-kin86af30-a855114.html) - 725€  
+[Siemens iQ500 KI86NAD30](https://geizhals.at/siemens-iq500-ki86nad30-a914287.html) - 815€ 
 
 # Kochplatte
 
