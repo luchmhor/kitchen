@@ -20,5 +20,5 @@ Siemens iQ500 SN55L230EU
 
 # Dunstabzug
 
-Bosch Serie 4 DHU665EL
+Bosch Serie 4 DHU665EL  
 Siemens iQ100 LU63LCC50
