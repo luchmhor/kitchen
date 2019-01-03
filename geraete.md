@@ -21,5 +21,5 @@
 
 # Dunstabzug
 
-[Bosch Serie 4 DHU665EL](https://geizhals.at/bosch-serie-4-dhu665el-unterbau-dunstabzugshaube-a1900626.html)  
-[Siemens iQ100 LU63LCC50](https://geizhals.at/siemens-iq100-lu63lcc50-unterbau-dunstabzugshaube-a1541644.html)
+[Bosch Serie 4 DHU665EL](https://geizhals.at/bosch-serie-4-dhu665el-unterbau-dunstabzugshaube-a1900626.html) - 305€  
+[Siemens iQ100 LU63LCC50](https://geizhals.at/siemens-iq100-lu63lcc50-unterbau-dunstabzugshaube-a1541644.html) - 170€
