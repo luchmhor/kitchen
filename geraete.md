@@ -17,7 +17,7 @@
 # Geschirr
 
 [Bosch Serie 4 SMI46CS01E](https://geizhals.at/bosch-serie-4-smi46cs01e-a1518556.html) - 430€  
-[Siemens iQ500 SN55L230EU](https://geizhals.at/siemens-iq500-sn55l230eu-a847566.html) - 380€
+[Siemens iQ500 SN55L230EU](https://geizhals.at/siemens-iq500-sn558s00ie-a1530165.html) - 520€
 
 # Dunstabzug
 
