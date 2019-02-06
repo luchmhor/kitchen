@@ -1,1 +1,2 @@
-(Blanco)[https://www.blanco-germany.com]
+[Blanco](https://www.blanco-germany.com)
+
