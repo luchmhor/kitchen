@@ -1,3 +1,5 @@
 - Fissler profi collection
 - Zwilling prime
 - Spring
+- Cristel
+- BK q-linair
