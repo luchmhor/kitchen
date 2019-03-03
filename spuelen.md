@@ -1,4 +1,8 @@
+# Spüle
+
 BLANCO ETAGON 500-U
+
+# Edelstahl
 
 [Ideal Standard B8989AA](https://www.konzept-kuechen.de/Shop/Artikel/Ideal-Standard-Kuechenarmatur-Retta-chrom-Winkelauslauf-und-Auszug-B-8989-AA-453841.html)
 
@@ -18,4 +22,8 @@ BLANCO ETAGON 500-U
 
 [Naber Armate® Bello 5 Einhebelmischer Chrom mit seitlichem Hebel 5011218](https://www.konzept-kuechen.de/Shop/Artikel/Naber-Armate-Bello-5-Einhebelmischer-Chrom-mit-seitlichem-Hebel-5011218-458246.html)
 
+# Schwarz/Weiß
+
 [Caressi CA112 BKM Eco Black Line Armatur Einhebel-Mischbatterie Hochdruck](https://www.konzept-kuechen.de/Shop/Artikel/Caressi-CA112-BKM-Eco-Black-Line-Armatur-Einhebel-Mischbatterie-Hochdruck-472011.html)
+
+[Blanco Carina-S](https://www.blanco-germany.com/en/int/mixer_taps/product_catalogue_mixertaps_int/tap.html?sid=BLANCO+CARENA-S+SILGRANIT-Look+zweifarbig&filter=true#pros)
