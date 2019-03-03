@@ -17,3 +17,5 @@ BLANCO ETAGON 500-U
 [Naber Armate® Bello 3 Einhebelmischer Chrom mit herausziebarem Auslauf 5011214](https://www.konzept-kuechen.de/Shop/Artikel/Naber-Armate-Bello-3-Einhebelmischer-Chrom-mit-herausziebarem-Auslauf-5011214-458243.html)
 
 [Naber Armate® Bello 5 Einhebelmischer Chrom mit seitlichem Hebel 5011218](https://www.konzept-kuechen.de/Shop/Artikel/Naber-Armate-Bello-5-Einhebelmischer-Chrom-mit-seitlichem-Hebel-5011218-458246.html)
+
+[Caressi CA112 BKM Eco Black Line Armatur Einhebel-Mischbatterie Hochdruck](https://www.konzept-kuechen.de/Shop/Artikel/Caressi-CA112-BKM-Eco-Black-Line-Armatur-Einhebel-Mischbatterie-Hochdruck-472011.html)
